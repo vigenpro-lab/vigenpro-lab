@@ -26,3 +26,8 @@ I am 16 years old, I am fond of coding and I see myself as a programmer in the f
 ### Badges
 
 <a href="https://github.com/vigenpro-lab" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigenpro-lab&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### CodeWars
+
+https://www.codewars.com/users/%C4%90%C4%98%E1%8E%AF%E1%97%AB%20%C4%B0%E2%84%95%E1%B9%A6%C4%A8%E1%97%AB%C4%9A/badges/small

@@ -30,4 +30,4 @@ I am 16 years old, I am fond of coding and I see myself as a programmer in the f
 
 ### CodeWars
 
-https://www.codewars.com/users/%C4%90%C4%98%E1%8E%AF%E1%97%AB%20%C4%B0%E2%84%95%E1%B9%A6%C4%A8%E1%97%AB%C4%9A/badges/small
+%C4%90%C4%98%E1%8E%AF%E1%97%AB%20%C4%B0%E2%84%95%E1%B9%A6%C4%A8%E1%97%AB%C4%9A/badges/small

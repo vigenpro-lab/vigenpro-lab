@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vigen
 =============================================================================================================================
 
-I am 16 years old, I am fond of coding and I see myself as a programmer in the future
+I am 17 years old, I am fond of coding and I see myself as a programmer in the future
 
 * 🌍  I'm based in Cheboksary
 * ✉️  You can contact me at [vigen.k2007@mail.ru](mailto:lil@vig-karapetyan.ru)
